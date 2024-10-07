@@ -13,15 +13,19 @@ function Hero() {
                     <p>Instytut Kultury Miejskiej</p>
                     <p>Gdańsk</p>
                 </div>
-                <a href="https://app.evenea.pl/event/musicjam2024/" target='_blank'>
-                    <button className='text-white font-semibold mt-2 sm:mt-0 font-normal bg-red-600 rounded-md px-4 py-1 md:py-2 hover:scale-105 duration-500 text-xl md:text-2xl lg:text-4xl'>Weź udział</button>
-                </a>
+                <div className='py-10 md:py-16'>
+                <p>
+                    <a href="https://app.evenea.pl/event/musicjam2024/" target='_blank'>
+                        <button className='text-white font-semibold mt-2 sm:mt-0 font-normal bg-red-600 rounded-md px-4 py-1 md:py-2 hover:scale-105 duration-500 text-xl md:text-2xl lg:text-4xl'>Weź udział</button>
+                    </a>
+                </p>
 
                 <p>
                     <a href="https://hackathons.ikm.gda.pl/" target='_blank'>
                         <button className='text-white font-semibold mt-2 sm:mt-0 font-normal bg-red-600 rounded-md px-4 py-1 md:py-2 hover:scale-105 duration-500 text-xl md:text-2xl lg:text-4xl'>Dowiedz się więcej</button>
                     </a>
                 </p>
+                </div>
             </div> 
             <div className='w-3/4 md:w-full mx-auto'>
                 <video autoplay="true" controls="true" loop="true" muted="true" src="https://hackathons.ikm.gda.pl/wp-content/uploads/2024/08/music-jam-cover-photo-fb.mp4" playsinline=""></video>
