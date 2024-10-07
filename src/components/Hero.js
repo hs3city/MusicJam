@@ -17,7 +17,7 @@ function Hero() {
                 <button className='text-white font-semibold mt-2 sm:mt-0 font-normal bg-red-600 rounded-md px-4 py-1 md:py-2 hover:scale-105 duration-500 text-xl md:text-2xl lg:text-4xl'>Weź udział</button>
                 </a>
 
-                <br>
+                <br />
 
                 <a href="https://hackathons.ikm.gda.pl/" target='_blank'>
                 <button className='text-white font-semibold mt-2 sm:mt-0 font-normal bg-red-600 rounded-md px-4 py-1 md:py-2 hover:scale-105 duration-500 text-xl md:text-2xl lg:text-4xl'>Dowiedz się więcej</button>
