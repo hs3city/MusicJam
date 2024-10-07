@@ -9,7 +9,7 @@ function Hero() {
             <div className='md:pl-10'>
                 <h1 className='font-bold text-6xl md:text-7xl text-red-600'>Music Jam</h1>
                 <div className='py-10 md:py-16'>
-                    <p>7-8.11.2024</p>
+                    <p>8-9.11.2024</p>
                     <p>Instytut Kultury Miejskiej</p>
                     <p>Gdańsk</p>
                 </div>
