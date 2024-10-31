@@ -17,7 +17,6 @@ function Wrapper() {
         <DlaKogo />
         <DlaczegoWarto />
         <Gdzie />
-        <Harmonogram />
         <ReuseMusic />
         <Faq />
         <Organizatorzy />

@@ -43,11 +43,6 @@ function Faq() {
     },
     {
       id: 7,
-      question: 'Czy warsztaty są dodatkowo płatne?',
-      ans: 'W przypadku osób, które uczestniczą w hackathonie, warsztaty są bezpłatne. Jeśli jednak nie możesz uczestniczyć w hackathonie, a chciałbyś wziąć udział w warsztatach - zapraszamy. Bilety w cenie 10zł.',
-    },
-    {
-      id: 8,
       question: 'Mam pytanie, na które nie ma tutaj odpowiedzi. Gdzie mogę je zadać?',
       ans: 'Zapraszamy do kontaktu na kontakt@codeme.pl',
     },
